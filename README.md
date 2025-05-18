@@ -2,7 +2,6 @@
 
 <!-- TOC -->
 
-- [目录](#%E7%9B%AE%E5%BD%95)
 - [一、ShardingSphere 是什么？](#%E4%B8%80shardingsphere-%E6%98%AF%E4%BB%80%E4%B9%88)
     - [1. 历史渊源](#1-%E5%8E%86%E5%8F%B2%E6%B8%8A%E6%BA%90)
         - [1.1. 单库单表的性能瓶颈](#11-%E5%8D%95%E5%BA%93%E5%8D%95%E8%A1%A8%E7%9A%84%E6%80%A7%E8%83%BD%E7%93%B6%E9%A2%88)
@@ -37,3 +36,23 @@
 > 🏷️ 5.1.1
 
 # 贡献者
+
+# 仓库信息
+[![Forks](https://img.shields.io/github/forks/yangwan-cw/ShardingSphere5)](https://github.com/yangwan-cw/ShardingSphere5/network/members)
+[![Stars](https://img.shields.io/github/stars/yangwan-cw/ShardingSphere5)](https://github.com/yangwan-cw/ShardingSphere5/stargazers)
+[![Commits](https://img.shields.io/github/commit-activity/t/yangwan-cw/ShardingSphere5)](https://img.shields.io/github/commit-activity/t/yangwan-cw/ShardingSphere5)
+
+
+# 贡献者
+<!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/yangwan-cw">
+            <img src="https://avatars.githubusercontent.com/u/50450947?v=4" width="100;" alt="yangwan-cw"/>
+            <br />
+            <sub><b>Yangwan-cw</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: collaborators,contributors -end -->
